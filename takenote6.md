@@ -35,6 +35,3 @@ Requirement → **Test Scenario** → **Test Case**
 - Expected Result phải rõ ràng, đo được.
 - Ghi chú các yêu cầu môi trường hoặc điểm đặc biệt.
 
-## 5. Bài tập thực hành
-- Viết test case cho chức năng đăng nhập **Shopee (desktop)**.
-- Nhờ cộng đồng hoặc mentor review để cải thiện.
